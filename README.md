@@ -59,6 +59,10 @@ Branches allow you to separate your work from the `main` branch. In other words,
 
 6. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
+## Research prompt guide
+
+This repository also includes a reusable prompt-engineering guide for collecting, deduplicating, and structuring news about clandestine graves in Mexico. See [Prompt for collecting news on clandestine graves in Mexico](docs/clandestine-graves-search-prompt.md).
+
 <footer>
 
 <!--
